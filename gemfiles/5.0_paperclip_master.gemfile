@@ -3,6 +3,6 @@
 source "http://rubygems.org"
 
 gem "rails", "~> 5.0.0"
-gem "paperclip", :github => "thoughtbot/paperclip"
+gem "kt-paperclip", github: "kreeti/kt-paperclip"
 
 gemspec :path => "../"
